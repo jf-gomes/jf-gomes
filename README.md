@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/Gpoolv8.jpg" width="400px" height="400px">
-
 # João Gomes
 
 Olá! Sou João Gomes e sou programador web.
