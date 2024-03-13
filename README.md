@@ -37,6 +37,27 @@ Olá! Sou João Gomes e sou programador web.
 ### Testes
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
+### OS
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+## Principais projetos
+
+### Proflyte
+<img src="https://i.imgur.com/kbsda7s.jpg" width="200" height="200" />
+Repositório: https://github.com/jf-gomes/proflyte-frontend
+
+### Zesty
+<img src="https://i.imgur.com/k9FDJNO.png" width="200" height="200" />
+Deploy: https://jf-gomes.github.io/zesty-frontend
+
+### NorteCon
+<img src="https://i.imgur.com/GkJnlEZ.png" width="200" height="200" />
+Deploy: https://jf-gomes.github.io/nortecon
+
+### GatherSphere
+<img src="https://i.imgur.com/e8YViDF.png" width="200" height="200" />
+Deploy: https://jf-gomes.github.io/gather-sphere-frontend
+
 ## Contato
 Portfólio: https://jf-gomes.github.io/portfolio/
 LinkedIn: https://www.linkedin.com/in/joao-v-f-gomes/
