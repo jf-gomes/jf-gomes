@@ -2,7 +2,7 @@
 
 Olá! Sou João Gomes e sou programador web.
 
-## Habilidades
+## Habilidades 🔥
 
  - Landing pages
  - Sistemas web
@@ -11,7 +11,7 @@ Olá! Sou João Gomes e sou programador web.
  - Banco de dados
  - Frameworks CSS
 
-## Principais tecnologias
+## Principais tecnologias 💻
 
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,7 +40,7 @@ Olá! Sou João Gomes e sou programador web.
 ### OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## Principais projetos
+## Principais projetos 🏗️
 
 ### Proflyte
 <img src="https://i.imgur.com/kbsda7s.jpg" width="200" height="200" />
@@ -58,7 +58,7 @@ Deploy: https://jf-gomes.github.io/nortecon
 <img src="https://i.imgur.com/e8YViDF.png" width="200" height="200" />
 Deploy: https://jf-gomes.github.io/gather-sphere-frontend
 
-## Contato
+## Contato 😊
 - Portfólio: https://jf-gomes.github.io/portfolio/
 - LinkedIn: https://www.linkedin.com/in/joao-v-f-gomes/
 
