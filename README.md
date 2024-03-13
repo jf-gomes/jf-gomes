@@ -59,8 +59,8 @@ Deploy: https://jf-gomes.github.io/nortecon
 Deploy: https://jf-gomes.github.io/gather-sphere-frontend
 
 ## Contato
-Portfólio: https://jf-gomes.github.io/portfolio/
-LinkedIn: https://www.linkedin.com/in/joao-v-f-gomes/
+- Portfólio: https://jf-gomes.github.io/portfolio/
+- LinkedIn: https://www.linkedin.com/in/joao-v-f-gomes/
 
 <!---
 jf-gomes/jf-gomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
