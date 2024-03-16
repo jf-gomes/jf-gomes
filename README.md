@@ -55,7 +55,7 @@ Deploy: https://jf-gomes.github.io/zesty-frontend
 Deploy: https://jf-gomes.github.io/nortecon
 
 ### GatherSphere
-<img src="https://i.imgur.com/e8YViDF.png" width="200" height="200" />
+<img src="https://i.imgur.com/ED3YYbK.jpg" width="200" height="200" />
 Deploy: https://jf-gomes.github.io/gather-sphere-frontend
 
 ## Contato 😊
