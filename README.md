@@ -52,7 +52,7 @@ Deploy: https://jf-gomes.github.io/zesty-frontend
 
 ### NorteCon
 <img src="https://i.imgur.com/GkJnlEZ.png" width="200" height="200" />
-Deploy: https://jf-gomes.github.io/nortecon
+Deploy: https://nortecon.com.br/
 
 ### GatherSphere
 <img src="https://i.imgur.com/ED3YYbK.jpg" width="200" height="200" />
