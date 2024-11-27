@@ -1,7 +1,5 @@
 # João Gomes
 
-Olá! Sou João Gomes e sou desenvolvedor com ênfase em mobile.
-
 ## Habilidades 🔥
 
  - React Native
